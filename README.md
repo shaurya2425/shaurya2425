@@ -1,28 +1,10 @@
-<div align="center">
-  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-##
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
-
-##
+<h1 align="center">Hey there 👋, I'm Shaurya Rajput</h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shaurya2425.shaurya2425" />
 </div>
 
-##
-
-<h1 align="center">Hey there 👋, I'm Shaurya Rajput</h1>
-
-##
-
-<h3 align="center">Full-Stack Developer | DSA Enthusiast | UI-First Engineer</h3>
+<h3 align="center">Full-Stack Developer | DSA Enthusiast </h3>
 
 <p align="center">
  Hi, I'm Shaurya Rajput — a Full-Stack Developer and DSA Enthusiast passionate about building clean, modern, and user-first digital experiences. I love combining logic and design to craft performant and futuristic web applications.
