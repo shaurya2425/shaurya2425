@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🌍 I'm from **India**  
-- 🔭 I’m currently working on **full-stack projects with Next.js, MongoDB, and Tailwind CSS**  
+- 🔭 I’m currently working on **full-stack projects with Next.js,React.js,Node.js,Express.js MongoDB, and Tailwind CSS**  
 - 📚 Actively solving **Data Structures & Algorithms** on Leetcode and Codeforces  
 - 💡 Exploring **backend authentication**, **cloud deployment**, and **advanced UI animations**  
 - ⚡ Fun fact: I design better when lo-fi beats are playing ☕🎧  
