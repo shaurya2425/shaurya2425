@@ -1,58 +1,86 @@
-<h1 align="center">Hey there 👋, I'm Shaurya Rajput</h1>
+![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shaurya2425.shaurya2425" />
-</div>
+<h1 align="center">Hi 👋, I'm Shaurya Rajput</h1>
+<h3 align="center">A passionate Full-Stack Developer & DSA Enthusiast from India</h3>
 
-<h3 align="center">Full-Stack Developer | DSA Enthusiast </h3>
-
-<p align="center">
- Hi, I'm Shaurya Rajput — a Full-Stack Developer and DSA Enthusiast passionate about building clean, modern, and user-first digital experiences. I love combining logic and design to craft performant and futuristic web applications.
-</p>
+<img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌍 I'm from **India**  
-- 🔭 I’m currently working on **full-stack projects with Next.js,React.js,Node.js,Express.js MongoDB, and Tailwind CSS**  
-- 📚 Actively solving **Data Structures & Algorithms** on Leetcode and Codeforces  
-- 💡 Exploring **backend authentication**, **cloud deployment**, and **advanced UI animations**  
-- ⚡ Fun fact: I design better when lo-fi beats are playing ☕🎧  
-- 📫 Reach me at **askshauryarajput@gmail.com**
+- 🔭 I’m a **Full-Stack Developer**
+- 🌱 Currently exploring **Backend Authentication, Cloud Deployment & Advanced UI Animations**
+- 💬 Ask me about **MERN Stack, Next.js, DSA**
+- 📚 Actively solving **DSA on LeetCode & Codeforces**
+- ⚡ Fun fact: I design better with **lo-fi beats ☕🎧**
+- 📫 How to reach me **askshauryarajput@gmail.com**
 
 ---
 
-### 🛠 Languages & Tools
-
-<div align="left" class="gap-2">
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </p>
-</div>
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaurya2425&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya2425&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shaurya2425&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-</div>
-
----
-
-### 🌐 Connect with Me
-
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shauryarajput2401" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/shaurya_2425" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:askshauryarajput@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shauryarajput2401" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/shaurya_2425" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>&nbsp;
+  <a href="mailto:askshauryarajput@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
+  </a>
 </p>
+
+---
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+<h3 align="center">📊 Statistics</h3>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaurya2425&theme=2077" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaurya2425&theme=2077" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaurya2425&theme=2077" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaurya2425&theme=2077" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurya2425&theme=2077" height="180em" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<h2 align="left">⚡ Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaurya2425&theme=react-dark" />
+</div>
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=shaurya2425&theme=radical&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaurya2425&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya2425&layout=compact&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=shaurya2425)
